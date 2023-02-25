@@ -9,5 +9,5 @@
 
 
 ### Resources: 
-https://howtodoinjava.com/kafka/getting-started-windows-10/
-https://howtodoinjava.com/kafka/spring-boot-with-kafka/
+1. https://howtodoinjava.com/kafka/getting-started-windows-10/
+2. https://howtodoinjava.com/kafka/spring-boot-with-kafka/
